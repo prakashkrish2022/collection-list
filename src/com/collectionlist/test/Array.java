@@ -19,6 +19,7 @@ List <Integer> l =new ArrayList();
 		
 		int size = l.size();
 		System.out.println(size);
+		System.out.println("sizez");
 		
 	}
 
